@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.AssemblyInfo.cs
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UserInfo\UserInfo\bin\Debug\net8.0\UserInfo.exe
+C:\Users\User\source\repos\UserInfo\UserInfo\bin\Debug\net8.0\UserInfo.deps.json
+C:\Users\User\source\repos\UserInfo\UserInfo\bin\Debug\net8.0\UserInfo.runtimeconfig.json
+C:\Users\User\source\repos\UserInfo\UserInfo\bin\Debug\net8.0\UserInfo.dll
+C:\Users\User\source\repos\UserInfo\UserInfo\bin\Debug\net8.0\UserInfo.pdb
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.dll
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\refint\UserInfo.dll
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.pdb
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\UserInfo.genruntimeconfig.cache
+C:\Users\User\source\repos\UserInfo\UserInfo\obj\Debug\net8.0\ref\UserInfo.dll
